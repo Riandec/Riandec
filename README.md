@@ -34,4 +34,4 @@ While I am not developing, I like to spend time with my pets and games.</p>
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riandec&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riandec&layout=compact&theme=dracula)
