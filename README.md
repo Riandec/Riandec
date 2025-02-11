@@ -2,9 +2,9 @@
 <h3>Pitchaya Pimmahasiri (Meen)</h3>
 
 <p>A highly motivated, passionate, and detail-oriented 3rd-year Computer Science student from Silpakorn University.<br>
-I am currently open for a cooperative education, intern or a new job opportunity.<br>
-I have a passion for studying Angular, React to develop my skills in preparation for my co-op program in 2025.<br><br>
-While I am not developing, I like to spend time with my pets and games.</p>
+I'm currently open for a cooperative education, intern or a new job opportunity.<br><br>
+At this moment, I've a passion for studying Angular, React to develop my skills in preparation for my co-op program in 2025.<br><br>
+While I'm not developing, I like to spend time with my pets and games.</p>
 
 <h2>Skills</h2>
 
