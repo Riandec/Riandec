@@ -39,4 +39,6 @@ While I'm not developing, I like to spend time with my pets and games.</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riandec&layout=compact&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riandec&layout=compact&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riandec&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riandec&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riandec&layout=compact&theme=highcontrast)
+
