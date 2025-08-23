@@ -1,7 +1,7 @@
 <h2>About me</h2>
 <h3>Pitchaya Pimmahasiri (Meen)</h3>
 
-<p>A highly motivated, passionate, and detail-oriented 3rd-year Computer Science student from Silpakorn University.<br>
+<p>A highly motivated, passionate, and detail-oriented 4th-year Computer Science student from Silpakorn University.<br>
 I'm currently open for a cooperative education, intern or a new job opportunity.<br><br>
 At this moment, I've a passion for studying <strong>MERN Stack and Spring Boot</strong> to develop my skills in preparation for internship.<br><br>
 While I'm not developing, I like to spend time with my pets and games.</p>
