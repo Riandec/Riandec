@@ -3,7 +3,7 @@
 
 <p>A highly motivated, passionate, and detail-oriented 4th-year Computer Science student from Silpakorn University.<br>
 I'm currently open for a cooperative education, intern or a new job opportunity.<br><br>
-At this moment, I've a passion for studying <strong>MERN Stack and Spring Boot</strong> to develop my skills in preparation for internship.<br><br>
+At this moment, I've a passion for studying <strong>MERN Stack and Flutter</strong> to develop my skills in preparation for internship.<br><br>
 While I'm not developing, I like to spend time with my pets and games.</p>
 
 <h2>Skills</h2>
@@ -13,6 +13,7 @@ While I'm not developing, I like to spend time with my pets and games.</p>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
