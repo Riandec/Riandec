@@ -1,12 +1,15 @@
 <h2>About me</h2>
 <h3>Pitchaya Pimmahasiri (Meen)</h3>
 
-<p>A highly motivated, passionate, and detail-oriented 4th-year Computer Science student from Silpakorn University.<br>
-I'm currently open for a cooperative education, intern or a new job opportunity.<br><br>
-At this moment, I've a passion for studying <strong>MERN Stack and Flutter</strong> to develop my skills in preparation for internship.<br><br>
+<p>A highly motivated, passionate, and detail-oriented fresh graduate with a Bachelor's degree in Computer Science student from Silpakorn University.
+I'm actively seeking a full-time position where I can apply my technical skills and contribute to a team.
+  
+I'm currently enhancing my technical skills by studying <strong>MERN Stack and Flutter</strong>, with a commitment to continuous learning and self-improvement.
+
 While I'm not developing, I like to spend time with my pets and games.</p>
 
-<h2>Skills</h2>
+<h2>Skills</h2> 
+<p><i>*In order of proficiency</i></p>
 
 **Programming & Tools** 
 <br>
@@ -21,8 +24,8 @@ While I'm not developing, I like to spend time with my pets and games.</p>
 
 **Design** 
 <br>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 <br>
@@ -30,11 +33,7 @@ While I'm not developing, I like to spend time with my pets and games.</p>
 <h2>Contact me</h2>
 
 <a href="https://www.linkedin.com/in/pitchaya-pimmahasiri-b76a24336/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://web.facebook.com/pitmn.04"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://line.me/ti/p/FyNYVSVnxr"><img src="https://img.shields.io/badge/Line-00C300?style=flat&logo=Line&logoColor=white"/></a>
-<a href="https://www.instagram.com/1mpitnis_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:pimmahasiri.pi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/Jemisce007/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=Steam&logoColor=white"/></a>
+<a href="https://line.me/ti/p/FyNYVSVnxr"><img src="https://img.shields.io/badge/Line-00C300?style=flat&logo=Line&logoColor=white"/></a>
 <br>
 <br>
-
