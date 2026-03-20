@@ -1,7 +1,7 @@
 <h2>About me</h2>
 <h3>Pitchaya Pimmahasiri (Meen)</h3>
 
-<p>A highly motivated, passionate, and detail-oriented fresh graduate with a Bachelor's degree in Computer Science student from Silpakorn University.
+<p>A highly motivated, passionate, and detail-oriented fresh graduate with a Bachelor's degree in Computer Science from Silpakorn University.
 I'm actively seeking a full-time position where I can apply my technical skills and contribute to a team.
   
 I'm currently enhancing my technical skills by studying <strong>MERN Stack and Flutter</strong>, with a commitment to continuous learning and self-improvement.
